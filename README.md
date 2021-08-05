@@ -1,0 +1,2 @@
+# GitRemoteRepo
+Initial git working
