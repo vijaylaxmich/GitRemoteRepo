@@ -4,3 +4,4 @@ Git is a Remote Repository
 GitRemoteRepo is a master branch
 Git is sophisticated than SVN
 git push origin
+git pull origin main
